@@ -1,7 +1,7 @@
 <div align="center">
   <h1>SEAL: Semantic Aware Image Watermarking</h1>
   
-  <img src="teaser.png" width="100%" height="75%" style="display:block; margin:auto;">
+  <img src="assets/teaser.png" width="100%" height="75%" style="display:block; margin:auto;">
 </div>
 
 ---
